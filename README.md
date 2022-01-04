@@ -1,2 +1,3 @@
 # Homework-Skillfactory
-Homework_1 and 2
+Homework 1
+Ich will das es funktioniert!
