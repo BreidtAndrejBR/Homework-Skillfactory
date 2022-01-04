@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkHelloWorldConsoleApp", "HomeworkHelloWorldConsoleApp\HomeworkHelloWorldConsoleApp.csproj", "{424D581F-B33F-43B5-AF55-730FC51DFEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424D581F-B33F-43B5-AF55-730FC51DFEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424D581F-B33F-43B5-AF55-730FC51DFEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424D581F-B33F-43B5-AF55-730FC51DFEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424D581F-B33F-43B5-AF55-730FC51DFEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2AD0498-542F-4B10-8573-5EBBCBD31DEC}
+	EndGlobalSection
+EndGlobal
